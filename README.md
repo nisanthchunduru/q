@@ -1,6 +1,6 @@
 # q
 
-Query PDF files in any directory with ChatGPT
+Chat with PDF files in any directory with ChatGPT
 
 ## Installation
 
