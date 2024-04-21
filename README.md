@@ -1,6 +1,6 @@
 # q
 
-Chat with PDF files in any directory with ChatGPT
+Chat with your PDFs
 
 ## Installation
 
